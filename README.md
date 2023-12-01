@@ -98,6 +98,14 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ElNiak&&style=flat-square)  
+
+
+### My music of the moment  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31vkdu3xxtvux6yxrwfy5tjr3wxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
   
 
 <br/>  
