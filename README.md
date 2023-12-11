@@ -12,10 +12,9 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+I’m a cybersecurity researcher and teaching assistant at UCLouvain. Being a researcher allows me to not only develop autonomy and knowledge but also develop two tools improving security and analysis.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
+I specialize in software engineering, network security of layer 4 and have basic AI competencies. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. 
 
 <br/>  
 
@@ -24,10 +23,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🔭 I’m currently working on [SEMA](https://github.com/csvl/SEMA-ToolChain) and [IVY for QUIC](https://github.com/ElNiak/QUIC-FormalVerification)  
   
 
-- 🌱 I’m currently learning Ivy, angr and many techs  
+- 🌱 I’m currently learning Ivy used for formal verification, angr for malware analysis and many other techs. All of my application use Docker for better deployment across the world.
   
 
-- 💬 Ask me about fuzzing and code analysis!  
+- 💬 Ask me about formal verification and code analysis!  
   
 
 - ⚡ Fun fact: There is no fun! Just writing code and drinking coffee 24/7 only 😎👌  
@@ -109,9 +108,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
