@@ -16,7 +16,7 @@ I specialize in software engineering, network security of layer 4 and have basic
 <br/>  
 
 
-## Rapidfire  
+## More about me  
 - 🔭 I’m currently working on [SEMA](https://github.com/csvl/SEMA-ToolChain) and [PFV (Protocols Formal Verification)](https://github.com/ElNiak/PFV)  
   
 
@@ -72,8 +72,8 @@ I specialize in software engineering, network security of layer 4 and have basic
 
 ## Github Stats  
 <div align="center" dir="auto">
-  <a href="https://github.com/breadrock1/breadrock1/blob/output/github-contribution-grid-snake.svg">
-  <img src="https://github.com/breadrock1/breadrock1/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%;"> 
+  <a href="https://github.com/ElNiak/ElNiak/blob/master/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/ElNiak/ElNiak/master/github-contribution-grid-snake.svg" style="max-width: 100%;"> 
   </a>
 </div>
 <br>
