@@ -20,7 +20,7 @@ I specialize in software engineering, network security of layer 4 and have basic
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on [SEMA](https://github.com/csvl/SEMA-ToolChain) and [IVY for QUIC](https://github.com/ElNiak/QUIC-FormalVerification)  
+- 🔭 I’m currently working on [SEMA](https://github.com/csvl/SEMA-ToolChain) and [PFV (Protocols Formal Verification)](https://github.com/ElNiak/PFV)  
   
 
 - 🌱 I’m currently learning Ivy used for formal verification, angr for malware analysis and many other techs. All of my application use Docker for better deployment across the world.
@@ -98,10 +98,6 @@ I specialize in software engineering, network security of layer 4 and have basic
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ElNiak&&style=flat-square)  
 
-
-### My music of the moment  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31vkdu3xxtvux6yxrwfy5tjr3wxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
