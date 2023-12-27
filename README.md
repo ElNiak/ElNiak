@@ -23,7 +23,7 @@ I specialize in software engineering, network security of layer 4 and have basic
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csvl&repo=SEMA-ToolChain)](https://github.com/csvl/SEMA-ToolChain)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=py-ssh3)](https://github.com/ElNiak/py-ssh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=py-ssh3)](https://github.com/ElNiak/py-ssh3)
 
 
 
