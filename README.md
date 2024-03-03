@@ -17,7 +17,7 @@ I specialize in software engineering, network security of layer 4 and have basic
 
 
 ## More about me  
-- 🔭 I’m currently working on [SEMA](https://github.com/csvl/SEMA-ToolChain) and [PFV (Protocols Formal Verification)](https://github.com/ElNiak/PFV) and the python version of [SSH3](https://github.com/ElNiak/py-ssh3) ! I am also playing with dorking automation pentesting in the tool named [Dorking-PenTesting](https://github.com/ElNiak/Dorking-PenTesting)
+- 🔭 I’m currently working on [SEMA](https://github.com/csvl/SEMA-ToolChain) and [PFV (Protocols Formal Verification)](https://github.com/ElNiak/PFV) and the python version of [SSH3](https://github.com/ElNiak/py-ssh3) ! I am also playing with dorking automation pentesting in the tool named [Dorking-PenTesting](https://github.com/ElNiak/Dorking-PenTesting), the rust version of [CUPP-RS](https://github.com/ElNiak/cupp-rs)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=PFV)](https://github.com/ElNiak/PFV)
 
@@ -26,6 +26,8 @@ I specialize in software engineering, network security of layer 4 and have basic
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=PySSH3)](https://github.com/ElNiak/PySSH3)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=Dorking-PenTesting)](https://github.com/ElNiak/Dorking-PenTesting)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=cupp-rs)](https://github.com/ElNiak/cupp-rs)
 
 
 
