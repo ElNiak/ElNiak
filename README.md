@@ -90,11 +90,11 @@ I specialize in software engineering, network security of layer 4 and have basic
 <br>
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ElNiak&include_orgs=true&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ElNiak&include_orgs=true&show_icons=true&count_private=true&hide_border=true&theme=synthwave" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ElNiak&hide_border=true&include_all_commits=true&hide=html&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ElNiak&hide_border=true&include_all_commits=true&hide=html&layout=compact&theme=synthwave" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
