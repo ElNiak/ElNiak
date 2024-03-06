@@ -43,7 +43,14 @@ I specialize in software engineering, network security of layer 4 and have basic
 
 </td></tr></table>  
 
+<table><tr><td valign="top" width="50%">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=cupp-rs)](https://github.com/ElNiak/cupp-rs)
+
+</td><td valign="top" width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=SmartHumanTracker)](https://github.com/ElNiak/SmartHumanTracker)
+</td></tr></table>  
 
 </div>
 
