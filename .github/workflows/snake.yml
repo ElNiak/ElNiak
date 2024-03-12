@@ -31,3 +31,11 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename:  dist/metrics.plugin.isocalendar.svg
+          token:  ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
