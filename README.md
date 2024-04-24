@@ -71,6 +71,15 @@ I specialize in software engineering, network security of layer 4 and have basic
 
 <br/>  
 
+### Research
+
+- S Lucca, C Crochet, CHB Van Ouytsel, A Legay  (2023). On Exploiting Symbolic Execution to Improve the Analysis of RAT Samples with angr. FPS2023
+
+- CH Bertrand Van Ouytsel, C Crochet, KHT Dam, A Legay (2022). Tool paper-sema: Symbolic execution toolchain for malware analysis. International Conference on Risks and Security of Internet and Systems, 62-68
+
+- Crochet, C., Rousseaux, T., Piraux, M., Sambon, J.-F., & Legay, A. (2021). Verifying quic implementations using ivy. In *Proceedings of the 2021 Workshop on Evolution, Performance and Interoperability of QUIC*. [DOI](10.1145/3488660.3493803)
+
+- Crochet, C., & Sambon, J.-F. (2021). Towards verification of QUIC and its extensions. (Master's thesis, UCL - Ecole polytechnique de Louvain). Available at [UCLouvain](http://hdl.handle.net/2078.1/thesis:30559). Keywords: QUIC, Formal Verification, RFC, IETF, Specification, Ivy, Network.
 
 ## Languages and Tools  
 <div align="center">  
