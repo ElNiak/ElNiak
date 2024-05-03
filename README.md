@@ -11,7 +11,15 @@
 ### Glad to see you here!  
 I’m a cybersecurity researcher and teaching assistant at UCLouvain. Being a researcher allows me to not only develop autonomy and knowledge but also develop two tools improving security and analysis.
 
-I specialize in software engineering, network security of layer 4 and have basic AI competencies. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. 
+I have a computer science master degree (155 ECTS) in:
+
+- software engineering, 
+
+- software & network security (mainly for transport and application layers)
+
+- and AI (basic knowledge - ML/DL). 
+
+I love designing systems that are light yet powerful, not over engineered, distributed yet synchronized and beautiful yet effective. 
 
 <br/>  
 
