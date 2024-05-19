@@ -62,6 +62,8 @@ I love designing systems that are light yet powerful, not over engineered, distr
 
 </td><td valign="top" width="50%">
 
+<table><tr><td valign="top" width="50%">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=Protocols-Ivy)](https://github.com/ElNiak/Protocols-Ivy)
 
 </td><td valign="top" width="50%">
