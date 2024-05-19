@@ -60,9 +60,14 @@ I love designing systems that are light yet powerful, not over engineered, distr
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=SmartHumanTracker)](https://github.com/ElNiak/SmartHumanTracker)
 </td></tr></table>  
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="50%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=Protocols-Ivy)](https://github.com/ElNiak/Protocols-Ivy)
+
+</td><td valign="top" width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=RustyNetCracker)](https://github.com/ElNiak/RustyNetCracker)
+
 </td></tr></table>  
 
 </div>
