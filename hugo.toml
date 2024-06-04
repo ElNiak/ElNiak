@@ -1,0 +1,6 @@
+baseURL = 'https://elniak.github.io'
+languageCode = 'en-us'
+title = 'Christophe Crochet [ElNiak]'
+theme = 'theme-academic-cv'
+paginate   = 10
+publishDir = "docs"

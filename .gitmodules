@@ -1,0 +1,3 @@
+[submodule "themes/theme-academic-cv"]
+	path = themes/theme-academic-cv
+	url = https://github.com/HugoBlox/theme-academic-cv.git
