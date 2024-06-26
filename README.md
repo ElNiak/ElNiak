@@ -102,6 +102,8 @@ I love designing systems that are light yet powerful, not over engineered, distr
 
 ### Research
 
+- Rousseaux, T., Crochet, C., Aoga, J., Legay, A. (2024). Network Simulator-Centric Compositional Testing. In: Castiglioni, V., Francalanza, A. (eds) Formal Techniques for Distributed Objects, Components, and Systems. FORTE 2024. Lecture Notes in Computer Science, vol 14678. Springer, Cham. https://doi.org/10.1007/978-3-031-62645-6_10
+  
 - S Lucca, C Crochet, CHB Van Ouytsel, A Legay  (2023). On Exploiting Symbolic Execution to Improve the Analysis of RAT Samples with angr. FPS2023
 
 - CH Bertrand Van Ouytsel, C Crochet, KHT Dam, A Legay (2022). Tool paper-sema: Symbolic execution toolchain for malware analysis. International Conference on Risks and Security of Internet and Systems, 62-68
