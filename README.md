@@ -78,6 +78,14 @@ I love designing systems that are light yet powerful, not over engineered, distr
 
 </td></tr></table>  
 
+<table><tr><td valign="top" width="50%">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=BountyDork)](https://github.com/ElNiak/BountyDork)
+
+</td><td valign="top" width="50%">
+  
+</td></tr></table>  
+
 </div>
 
 
