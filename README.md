@@ -83,11 +83,13 @@ I love designing systems that are light yet powerful, not over engineered, distr
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=BountyDork)](https://github.com/ElNiak/BountyDork)
 
 </td><td valign="top" width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=awesome-ai-cybersecurity)](https://github.com/ElNiak/awesome-ai-cybersecurity)
+
   
 </td></tr></table>  
 
 </div>
-
 
 - 🌱 I’m currently learning Ivy used for formal verification, angr for malware analysis and many other techs. All of my application use Docker for better deployment across the world.
   
