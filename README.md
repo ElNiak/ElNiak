@@ -52,18 +52,21 @@ I love designing systems that are light yet powerful, not over engineered, distr
 
 </td><td valign="top" width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=Dorking-PenTesting)](https://github.com/ElNiak/Dorking-PenTesting)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=PySSH3)](https://github.com/ElNiak/PySSH3)
 
 
 </td></tr></table>  
 
 <table><tr><td valign="top" width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=PySSH3)](https://github.com/ElNiak/PySSH3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=Dorking-PenTesting)](https://github.com/ElNiak/Dorking-PenTesting)
+
 
 </td><td valign="top" width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=SmartHumanTracker)](https://github.com/ElNiak/SmartHumanTracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=BountyDork)](https://github.com/ElNiak/BountyDork)
+
+
 </td></tr></table>  
 
 </td><td valign="top" width="50%">
@@ -79,12 +82,25 @@ I love designing systems that are light yet powerful, not over engineered, distr
 </td></tr></table>  
 
 <table><tr><td valign="top" width="50%">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=BountyDork)](https://github.com/ElNiak/BountyDork)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=awesome-formal-verification)](https://github.com/ElNiak/awesome-formal-verification)
+
 
 </td><td valign="top" width="50%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=awesome-ai-cybersecurity)](https://github.com/ElNiak/awesome-ai-cybersecurity)
+
+  
+</td></tr></table>  
+
+<table><tr><td valign="top" width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=SmartHumanTracker)](https://github.com/ElNiak/SmartHumanTracker)
+
+
+</td><td valign="top" width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=DSLCanvas)](https://github.com/ElNiak/DSLCanvas)
 
   
 </td></tr></table>  
