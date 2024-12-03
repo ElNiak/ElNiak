@@ -103,7 +103,17 @@ I love designing systems that are light yet powerful, not over engineered, distr
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=DSLCanvas)](https://github.com/ElNiak/DSLCanvas)
 
   
-</td></tr></table>  
+</td></tr></table>
+
+<table><tr><td valign="top" width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=GitBooster)](https://github.com/ElNiak/GitBooster)
+
+
+</td><td valign="top" width="50%">
+
+  
+</td></tr></table>
 
 </div>
 
