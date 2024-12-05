@@ -207,5 +207,6 @@ I love designing systems that are light yet powerful, not over engineered, distr
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
   
+[![committers.top badge](https://user-badge.committers.top/belgium/ElNiak.svg)](https://user-badge.committers.top/belgium/ElNiak)
 
 <br/>  
