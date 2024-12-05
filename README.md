@@ -201,7 +201,6 @@ I love designing systems that are light yet powerful, not over engineered, distr
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ElNiak&&style=flat-square)  
-[![committers.top badge](https://user-badge.committers.top/belgium/ElNiak.svg)](https://user-badge.committers.top/belgium/ElNiak)
+![Profile views counter](https://komarev.com/ghpvc/?username=ElNiak&&style=flat-square)  [![committers.top badge](https://user-badge.committers.top/belgium/ElNiak.svg)](https://user-badge.committers.top/belgium/ElNiak)
 
 <br/>  
