@@ -31,7 +31,17 @@ I love designing systems that are light yet powerful, not over engineered, distr
 
 
 ## More about me  
-- 🔭 I’m currently working on [SEMA](https://github.com/csvl/SEMA-ToolChain) and [PFV (Protocols Formal Verification)](https://github.com/ElNiak/PFV) and the python version of [SSH3](https://github.com/ElNiak/py-ssh3) ! I am also playing with dorking automation pentesting in the tool named [Dorking-PenTesting](https://github.com/ElNiak/Dorking-PenTesting), the rust version of [CUPP-RS](https://github.com/ElNiak/cupp-rs)
+
+### Researches
+
+In my current role, my thesis is currently named "Toward (More) Secured Network Systems". It is based on Network-centric Compositional Testing by McMillan & al. using the Ivy tool.
+
+From that, we extended the methodology with network simulator encapsulation for reproductible experiment. This also enable the verification of time-varying properties (e.g congestion and packet loss mechanisms). See "Network Simulator-centric Compositional Testing" article.
+
+
+Then we also propose formal requirements mutation enabling to verify implementation outside the specifications. And also to model formal attackers. You can check out "Formally Reproducing and Discovering new Vulnerabilities".
+
+All of my work is then build on top of my tool Panther enabling convenient testing using a pluggable architecture of new IUTs.
 
 <div align="center" dir="auto">
   
@@ -45,10 +55,31 @@ I love designing systems that are light yet powerful, not over engineered, distr
   
 </td></tr></table>  
 
+</div>
+
+Finally, I also work on malware analysis using symbolic execution technique using the angr framework.
+
+<div align="center" dir="auto">
+  
+<table><tr><td valign="top" width="100%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csvl&repo=SEMA-ToolChain)](https://github.com/csvl/SEMA-ToolChain)
+
+</td></tr></table>  
+
+</div>
+
+
+### Private Projects
+
+
+<div align="center" dir="auto">
+  
+
 
 <table><tr><td valign="top" width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csvl&repo=SEMA-ToolChain)](https://github.com/csvl/SEMA-ToolChain)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=GitBooster)](https://github.com/ElNiak/GitBooster)
 
 </td><td valign="top" width="50%">
 
@@ -101,17 +132,6 @@ I love designing systems that are light yet powerful, not over engineered, distr
 </td><td valign="top" width="50%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=DSLCanvas)](https://github.com/ElNiak/DSLCanvas)
-
-  
-</td></tr></table>
-
-<table><tr><td valign="top" width="50%">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=GitBooster)](https://github.com/ElNiak/GitBooster)
-
-
-</td><td valign="top" width="50%">
-
   
 </td></tr></table>
 
