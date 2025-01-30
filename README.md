@@ -34,6 +34,8 @@ I love designing systems that are light yet powerful, not over engineered, distr
 
 ### Researches
 
+#### A. Toward (More) Secured Network Systems
+
 In my current role, my thesis is currently named "Toward (More) Secured Network Systems". It is based on Network-centric Compositional Testing by McMillan & al. using the Ivy tool.
 
 From that, we extended the methodology with network simulator encapsulation for reproductible experiment. This also enable the verification of time-varying properties (e.g congestion and packet loss mechanisms). See "Network Simulator-centric Compositional Testing" article.
@@ -57,6 +59,53 @@ All of my work is then build on top of my tool Panther enabling convenient testi
 
 </div>
 
+- Crochet, C., Aoga, J., & Legay, A. (2024). Formally Discovering and Reproducing Network Protocols Vulnerabilities (NordSec24).
+
+```
+@inproceedings{crochet2024formally,
+  title={Formally Discovering and Reproducing Network Protocols Vulnerabilities},
+  author={Crochet, Christophe and Aoga, John and Legay, Axel},
+  booktitle={Nordic Conference on Secure IT Systems. Springer},
+  year={2024}
+}
+```
+
+- Rousseaux, T., Crochet, C., Aoga, J., Legay, A. (2024). Network Simulator-Centric Compositional Testing. In: Castiglioni, V., Francalanza, A. (eds) Formal Techniques for Distributed Objects, Components, and Systems. FORTE 2024. Lecture Notes in Computer Science, vol 14678. Springer, Cham. https://doi.org/10.1007/978-3-031-62645-6_10
+
+```
+@inproceedings{tom2024network,
+  title={Network Simulator-Centric Compositional Testing},
+  author={Tom Rousseaux , Christophe Crochet , John Aoga, and Axel Legay},
+  booktitle={FORTE: International Conference on Formal Techniques for Distributed Objects, Components, and Systems},
+  volume={14678},
+  pages={177--196},
+  year={2024}
+}
+```
+  
+- Crochet, C., Rousseaux, T., Piraux, M., Sambon, J.-F., & Legay, A. (2021). Verifying quic implementations using ivy. In *Proceedings of the 2021 Workshop on Evolution, Performance and Interoperability of QUIC*. [DOI](10.1145/3488660.3493803)
+
+```
+@inproceedings{crochet2021verifying,
+  title={Verifying QUIC implementations using Ivy},
+  author={Crochet, Christophe and Rousseaux, Tom and Piraux, Maxime and Sambon, Jean-Fran{\c{c}}ois and Legay, Axel},
+  booktitle={Proceedings of the 2021 Workshop on Evolution, Performance and Interoperability of QUIC},
+  pages={35--41},
+  year={2021}
+}
+```
+
+- Crochet, C., & Sambon, J.-F. (2021). Towards verification of QUIC and its extensions. (Master's thesis, UCL - Ecole polytechnique de Louvain). Available at [UCLouvain](http://hdl.handle.net/2078.1/thesis:30559). Keywords: QUIC, Formal Verification, RFC, IETF, Specification, Ivy, Network.
+
+```
+@article{crochettowards,
+  title={" Towards verification of QUIC and its extensions},
+  author={Crochet, Christophe and Sambon, Jean-Fran{\c{c}}ois and Legay, Axel and Bonaventure, Olivier}
+}
+```
+  
+#### B. Symbolic Execution for Malware Analysis
+
 Finally, I also work on malware analysis using symbolic execution technique using the angr framework.
 
 <div align="center" dir="auto">
@@ -69,25 +118,41 @@ Finally, I also work on malware analysis using symbolic execution technique usin
 
 </div>
 
+- S Lucca, C Crochet, CHB Van Ouytsel, A Legay  (2023). On Exploiting Symbolic Execution to Improve the Analysis of RAT Samples with angr. FPS2023
+
+```
+@inproceedings{lucca2023exploiting,
+  title={On Exploiting Symbolic Execution to Improve the Analysis of RAT Samples with angr},
+  author={Lucca, Serena and Crochet, Christophe and Bertrand Van Ouytsel, Charles-Henry and Legay, Axel},
+  booktitle={International Symposium on Foundations and Practice of Security},
+  pages={339--354},
+  year={2023},
+  organization={Springer Nature Switzerland Cham}
+}
+
+```
+
+- CH Bertrand Van Ouytsel, C Crochet, KHT Dam, A Legay (2022). Tool paper-sema: Symbolic execution toolchain for malware analysis. International Conference on Risks and Security of Internet and Systems, 62-68
+
+```
+@inproceedings{bertrand2022tool,
+  title={Tool paper-SEMA: symbolic execution toolchain for malware analysis},
+  author={Bertrand Van Ouytsel, Charles-Henry and Crochet, Christophe and Dam, Khanh Huu The and Legay, Axel},
+  booktitle={International Conference on Risks and Security of Internet and Systems},
+  pages={62--68},
+  year={2022},
+  organization={Springer Nature Switzerland Cham}
+}
+```
+
 
 ### Private Projects
+
+#### Security related
 
 
 <div align="center" dir="auto">
   
-
-
-<table><tr><td valign="top" width="50%">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=GitBooster)](https://github.com/ElNiak/GitBooster)
-
-</td><td valign="top" width="50%">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=PySSH3)](https://github.com/ElNiak/PySSH3)
-
-
-</td></tr></table>  
-
 <table><tr><td valign="top" width="50%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=Dorking-PenTesting)](https://github.com/ElNiak/Dorking-PenTesting)
@@ -112,6 +177,31 @@ Finally, I also work on malware analysis using symbolic execution technique usin
 
 </td></tr></table>  
 
+
+<table><tr><td valign="top" width="100%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=SmartHumanTracker)](https://github.com/ElNiak/SmartHumanTracker)
+
+  
+</td></tr></table>
+
+</div>
+
+#### Others
+
+<div align="center" dir="auto">
+  
+<table><tr><td valign="top" width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=GitBooster)](https://github.com/ElNiak/GitBooster)
+
+</td><td valign="top" width="50%">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=PySSH3)](https://github.com/ElNiak/PySSH3)
+
+
+</td></tr></table>  
+
 <table><tr><td valign="top" width="50%">
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=awesome-formal-verification)](https://github.com/ElNiak/awesome-formal-verification)
@@ -124,12 +214,8 @@ Finally, I also work on malware analysis using symbolic execution technique usin
   
 </td></tr></table>  
 
-<table><tr><td valign="top" width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=SmartHumanTracker)](https://github.com/ElNiak/SmartHumanTracker)
-
-
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElNiak&repo=DSLCanvas)](https://github.com/ElNiak/DSLCanvas)
   
@@ -147,18 +233,6 @@ Finally, I also work on malware analysis using symbolic execution technique usin
   
 
 <br/>  
-
-### Research
-
-- Rousseaux, T., Crochet, C., Aoga, J., Legay, A. (2024). Network Simulator-Centric Compositional Testing. In: Castiglioni, V., Francalanza, A. (eds) Formal Techniques for Distributed Objects, Components, and Systems. FORTE 2024. Lecture Notes in Computer Science, vol 14678. Springer, Cham. https://doi.org/10.1007/978-3-031-62645-6_10
-  
-- S Lucca, C Crochet, CHB Van Ouytsel, A Legay  (2023). On Exploiting Symbolic Execution to Improve the Analysis of RAT Samples with angr. FPS2023
-
-- CH Bertrand Van Ouytsel, C Crochet, KHT Dam, A Legay (2022). Tool paper-sema: Symbolic execution toolchain for malware analysis. International Conference on Risks and Security of Internet and Systems, 62-68
-
-- Crochet, C., Rousseaux, T., Piraux, M., Sambon, J.-F., & Legay, A. (2021). Verifying quic implementations using ivy. In *Proceedings of the 2021 Workshop on Evolution, Performance and Interoperability of QUIC*. [DOI](10.1145/3488660.3493803)
-
-- Crochet, C., & Sambon, J.-F. (2021). Towards verification of QUIC and its extensions. (Master's thesis, UCL - Ecole polytechnique de Louvain). Available at [UCLouvain](http://hdl.handle.net/2078.1/thesis:30559). Keywords: QUIC, Formal Verification, RFC, IETF, Specification, Ivy, Network.
 
 ## Languages and Tools  
 <div align="center">  
