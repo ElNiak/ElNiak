@@ -281,7 +281,7 @@ Finally, I also work on malware analysis using symbolic execution technique usin
 <br>
 <table><tr><td valign="top" width="50%">
 
-<img src=https://github-readme-stats-five-gilt-39.vercel.app/api?username=ElNiak&include_orgs=true&show_icons=true&count_private=true&hide_border=true&theme=synthwave" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-five-gilt-39.vercel.app/api?username=ElNiak&include_orgs=true&show_icons=true&count_private=true&hide_border=true&theme=synthwave" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
